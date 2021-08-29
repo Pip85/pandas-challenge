@@ -11,8 +11,8 @@ Student project - analyze school district data using pandas & Jupyter Notebook
 
 *Resources provided by:* <br>
  © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.<br>
-> https://github.com/Pip85/pandas-school_district_analysis/blob/main/PyCitySchools/Resources/schools_complete.csv<br>
-> https://github.com/Pip85/pandas-school_district_analysis/blob/main/PyCitySchools/Resources/students_complete.csv<br>
+> -  https://github.com/Pip85/pandas-school_district_analysis/blob/main/PyCitySchools/Resources/schools_complete.csv<br>
+> -  https://github.com/Pip85/pandas-school_district_analysis/blob/main/PyCitySchools/Resources/students_complete.csv<br>
 
 ## **project background**<br>
 
@@ -34,7 +34,7 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-![district_summary]()<br>
+![district_summary](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/district_summary.png)<br>
 
 ### School Summary
 
@@ -50,7 +50,7 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-![school_summary]()<br>
+![school_summary](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/school_summary.png)<br>
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -66,25 +66,25 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-![top_performing]()<br>
+![top_performing](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/top_performing_schools.png)<br>
 
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-![bottom_performing]()<br>
+![bottom_performing](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/bottom_performing_schools.png)<br>
 
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![math]()<br>
+![math](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/math.png)<br>
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![reading]()<br>
+![reading](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/reading.png)<br>
 
 ### Scores by School Spending
 
@@ -95,19 +95,19 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-![spending]()<br>
+![spending](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/spending.png)<br>
 
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-![scores_size]()<br>
+![scores_size](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/scores_size.png)<br>
 
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District)
 
-![scores_type]()<br>
+![scores_type](https://github.com/Pip85/pandas-school_district_analysis/blob/main/Images/scores_type.png)<br>
 
 ## **acknowledgments**
 
