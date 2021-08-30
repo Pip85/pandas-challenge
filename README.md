@@ -1,4 +1,4 @@
-# **pandas-school_district_analysis**
+# **practice-pandas**
 
 Student project - analyze school district data using pandas & Jupyter Notebook
 
